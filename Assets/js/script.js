@@ -1,3 +1,4 @@
+// Credit for base code: https://github.com/sylviaprabudy/work-day-scheduler/blob/master/assets/js/script.js
 const notif = document.getElementById('notify');
 
 $(document).ready(function () {
