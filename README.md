@@ -16,9 +16,6 @@ Here are screenshots of the finished product as well as a link to the website.
 
 Link:
 
-## Credits
-
-No credits for this project/assignment.
 
 ## License
 
