@@ -8,15 +8,6 @@ For this assignment, I was tasked with modifying starter code to help construct 
 
 This basic template was built from an html file, utilizing css for creativity, and javascript, jquery, and moment.js for functionality. 
 
-## Usage
-
-Here are screenshots of the finished product as well as a link to the website.
-
-
-
-Link:
-
-
 ## License
 
 GNU GENERAL PUBLIC LICENSE
